@@ -1,0 +1,75 @@
+.container{
+    width: 900px;
+}
+
+.captioncar{
+    color: black;
+}
+
+.overf{
+    height: 70px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.contactus{
+    height: 60px;
+    padding-left: 55px;
+    padding-right: 55px;
+
+}
+
+.rounded{
+    border-radius: 15px !important;
+}
+
+b{
+    color: orange;
+}
+
+.card:hover .card-img-top{
+    opacity: 0.4;
+    transition: 0.4s;
+}
+
+.card:hover p{
+    visibility: hidden;
+}
+
+.card:hover .text-black{
+    visibility: hidden;
+}
+
+.card:hover .bg-light{
+    visibility: hidden;
+}
+.card:hover .p-3{
+    visibility: hidden;
+}
+.card:hover .h4{
+    visibility: hidden;
+}
+.card:hover .rounded{
+    visibility: hidden;
+}
+
+.logo{
+    height: 20px;
+    width: 60px;
+}
+
+.table-bordered{
+    border: 2px solid grey;
+  }
+
+.table-bordered th,
+.table-bordered td {
+  border: 2px solid grey;
+}
+
+
+.footer{
+    background-color: #273746;
+    color: white;
+    height: 120px;
+}
